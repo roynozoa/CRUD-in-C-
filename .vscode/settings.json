@@ -1,0 +1,19 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 20,
+    "window.zoomLevel": 0.5,
+    
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp"
+    },
+    "editor.minimap.enabled": false,
+    
+    
+
+}
