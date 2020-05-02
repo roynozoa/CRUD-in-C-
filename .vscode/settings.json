@@ -10,7 +10,12 @@
         "string_view": "cpp",
         "initializer_list": "cpp",
         "utility": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp"
     },
     "editor.minimap.enabled": false,
     
